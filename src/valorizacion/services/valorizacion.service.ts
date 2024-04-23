@@ -252,7 +252,7 @@ export class ValorizacionService {
             misArchivosNoCorresponde[y]
              .font(fuentedeletra)
              .fontSize(25)
-             .text(`NO CORRESPONDE}`,200,200,{align:'justify'})//150,265
+             .text(`NO CORRESPONDE`,200,200,{align:'justify'})//150,265
         }
 
 
