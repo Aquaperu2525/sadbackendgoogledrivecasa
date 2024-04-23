@@ -272,6 +272,7 @@ export class ValorizacionService {
             
             console.log({"no correspnde":listaSeparadores[l].titulo})  
             this.generaSeparadoresEnPDF(listaSeparadores[l].titulo,misArchivosNoCorresponde[fixPos],carpetaContenedoraId)
+            this.generaSeparadoresEnPDF(listaSeparadores[l].titulo,misarchivosSeparadores[l],carpetaContenedoraId)
             fixPos = fixPos + 1
         }else{
             this.generaSeparadoresEnPDF(listaSeparadores[l].titulo,misarchivosSeparadores[l],carpetaContenedoraId)
