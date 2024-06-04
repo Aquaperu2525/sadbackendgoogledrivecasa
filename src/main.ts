@@ -20,18 +20,6 @@ async function bootstrap() {
     "http://localhost:4200/*",
    // "https://192.168.1.86:4444/*",
     "https://192.168.1.86:4444",
-    "https://legendary-space-fiesta-69vxg6jqp77xf49rg-5000.app.github.dev/",
-    "https://legendary-space-fiesta-69vxg6jqp77xf49rg-5000.app.github.dev",
-    "https://legendary-space-fiesta-69vxg6jqp77xf49rg-5000.app.github.dev/*",
-    "https://legendary-space-fiesta-69vxg6jqp77xf49rg-5000.app.github.dev/autenticar/login",
-    "https://miniature-space-zebra-7v7j9qg6xrjx266g-4200.app.github.dev/",
-    "https://miniature-space-zebra-7v7j9qg6xrjx266g-4200.app.github.dev",
-    "https://4200-monospace-sadfrontenddrive17-1713883251017.cluster-2xid2zxbenc4ixa74rpk7q7fyk.cloudworkstations.dev",
-    "https://4200-monospace-sadfrontenddrive17-1713883251017.cluster-2xid2zxbenc4ixa74rpk7q7fyk.cloudworkstations.dev/",
-    "https://9000-monospace-sadfrontenddrive17casa-1714798683819.cluster-hf4yr35cmnbd4vhbxvfvc6cp5q.cloudworkstations.dev/",
-    "https://9000-monospace-sadfrontenddrive17casa-1714798683819.cluster-hf4yr35cmnbd4vhbxvfvc6cp5q.cloudworkstations.dev",
-    "https://4200-monospace-sadfrontenddrive17-1714863088995.cluster-wfwbjypkvnfkaqiqzlu3ikwjhe.cloudworkstations.dev/",
-    "https://4200-monospace-sadfrontenddrive17-1714863088995.cluster-wfwbjypkvnfkaqiqzlu3ikwjhe.cloudworkstations.dev",
    
     
     "*"
